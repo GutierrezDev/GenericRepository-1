@@ -7,3 +7,8 @@ C:\Package\Repository\Repository\bin\Debug\Repository.pdb
 C:\Package\Repository\Repository\obj\Debug\Repository.dll
 C:\Package\Repository\Repository\obj\Debug\Repository.pdb
 C:\Package\Repository\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\GitHub\GenericRepository\src\Repository\bin\Debug\Repository.dll
+D:\GitHub\GenericRepository\src\Repository\bin\Debug\Repository.pdb
+D:\GitHub\GenericRepository\src\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\GitHub\GenericRepository\src\Repository\obj\Debug\Repository.dll
+D:\GitHub\GenericRepository\src\Repository\obj\Debug\Repository.pdb
