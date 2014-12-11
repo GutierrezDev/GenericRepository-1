@@ -1,0 +1,8 @@
+c:\users\sinan.babacan\documents\visual studio 2013\Projects\Repository\Repository\bin\Release\Repository.dll
+c:\users\sinan.babacan\documents\visual studio 2013\Projects\Repository\Repository\bin\Release\Repository.pdb
+c:\users\sinan.babacan\documents\visual studio 2013\Projects\Repository\Repository\obj\Release\Repository.dll
+c:\users\sinan.babacan\documents\visual studio 2013\Projects\Repository\Repository\obj\Release\Repository.pdb
+C:\Package\Repository\Repository\bin\Release\Repository.dll
+C:\Package\Repository\Repository\bin\Release\Repository.pdb
+C:\Package\Repository\Repository\obj\Release\Repository.dll
+C:\Package\Repository\Repository\obj\Release\Repository.pdb
